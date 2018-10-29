@@ -1,0 +1,21 @@
+{
+  "name": "Christina Thompson",
+  "website": "https://blackpolymath.github.io/",
+  "linkedin": "",
+  "github": "blackpolymath",
+  "email": "cfthompson321@gmail.com",
+  "resume": "",
+  "proficient-technologies": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "angular",
+    "mern",
+    "mean",
+    "sql",
+    "node",
+    "mongodb"
+  ],
+  "other-skills": ["teaching", "piano"]
+}
